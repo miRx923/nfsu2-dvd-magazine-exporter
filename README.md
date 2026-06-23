@@ -1,4 +1,4 @@
-# NFSU2 DVD/Magazine Export Tool
+# NFSU2 DVDs/Magazines Export Tool
 
 A Python port of the [hkAlice/nfsu2-magazine-worker](https://github.com/hkAlice/nfsu2-magazine-worker). Batch exports DVD cover and magazine image files from **Need for Speed: Underground 2** to standard PNG format.
 
