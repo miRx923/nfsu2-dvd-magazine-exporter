@@ -38,6 +38,7 @@ NFS Underground 2/
         magazine
     ...
 ```
+`Folder with the DVDs/Magazines can be found at location: (Users/your_name/AppData/Local/NFS Underground 2)`
 
 Run the script:
 
