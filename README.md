@@ -25,10 +25,10 @@ pip install pillow
 
 ## Usage
 
-Place `nfsu2_dvd_and_magazines_export.py` next to your `NFS Underground 2/` folder:
+Place `nfsu2_exporter.py` next to your `NFS Underground 2/` folder:
 
 ```
-nfsu2_dvd_and_magazines_export.py
+nfsu2_exporter.py
 NFS Underground 2/
     DVD Cover 1/
         DVDFile
